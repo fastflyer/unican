@@ -1,2 +1,7 @@
 lechuga
 verdura
+lola
+anade
+uno
+y
+otro
